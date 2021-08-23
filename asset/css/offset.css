@@ -1,0 +1,19 @@
+.container {
+    border: 5px solid black;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.red {
+    background-color: red;
+}
+
+.blue {
+    background-color: blue;
+}
